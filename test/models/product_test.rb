@@ -61,7 +61,6 @@ class ProductTest < ActiveSupport::TestCase
     asssert product.invalid?
     assert_equal ["has already been taken"], product.errors[:title]
   end
-
 end
 
 
