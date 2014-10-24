@@ -1,6 +1,6 @@
 == SHOPPRR
 
-This is a basic shopping cart to be used and built upon as a template.  This will have a section for individual sellers to upload products available for sale, as well as options for them to ship those products and collect payment.
+This is a basic shopping cart to be used and built upon as a template.  There will have a section for individual sellers to upload products available for sale, as well as options for them to ship those products and collect payment.
 
 There will also be a section for buyers to view a list of available products, and also purchase those products.  
 
