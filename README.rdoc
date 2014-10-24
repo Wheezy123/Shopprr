@@ -4,4 +4,6 @@ This is a basic shopping cart to be used and built upon as a template.  This wil
 
 There will also be a section for buyers to view a list of available products, and also purchase those products.  
 
+There will also (obviously) be a shopping cart associated with each individual user's purchases, that will be dynamically updated.
+
 Early development phase, stay tuned...
