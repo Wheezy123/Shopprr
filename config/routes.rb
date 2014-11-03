@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   resources :carts
 
   get 'store/index'
+  match 'store/index', to: 'carts#destroy', via: :post
 
   resources :products
 
