@@ -9,14 +9,14 @@
 		padding-bottom: 0.5 em;
 		font: 150% sans-serif;
 		color: #226;
-		border-bottom: 3px dotted #77d;
+		border-bottom: 3px dotted #4099ff;
 	}
 
 	/* An entry into the store catalog */
 		.entry {
 			overflow: auto;
 			margin-top: 1em;
-			border-bottom: 1px dotted #77d;
+			border-bottom: 1px dotted #4099ff;
 			min-height: 100px;
 
 		img {
@@ -46,7 +46,7 @@
 		}
 
 		.price {
-			color: #44a;
+			color: #4099ff;
 			font-weight: bold;
 			margin-right: 3em;
 		}
