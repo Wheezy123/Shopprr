@@ -1,0 +1,10 @@
+Dear <%= order.name %>,
+
+Thank you for for using Shopprr!  Your recent order has been received,
+and includes the following items:
+
+<%= render @order.line_items %>
+
+We'll send you a seperate e-mail when your order has been shipped.
+
+-Shopprr Team
